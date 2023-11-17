@@ -1,5 +1,5 @@
 # Security-Portoflio
-Thank you for joinng me on my journey to understand security 🙌<br>
+Thank you for joining me on my journey to understand security 🙌<br>
 
 🔵[Analyze network attacks](https://docs.google.com/document/d/15deiAA9_lNWwwaFCf8-h8CbexCyRlCY2-1yS3mnJjxc/edit?usp=sharing)<br>
 🔵[Security Incident Report](https://docs.google.com/document/d/1aeQzHq-TIIOOLMbQfezuJFZGlv8c1n8bS5I1gf0lx20/edit?usp=sharing)<br>
