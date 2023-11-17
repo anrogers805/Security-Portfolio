@@ -7,3 +7,4 @@ The corresponding emote for this *to make this easy to read for now* will be �
 🔵 [11-08-2023 Security Incident Report](https://docs.google.com/document/d/1aeQzHq-TIIOOLMbQfezuJFZGlv8c1n8bS5I1gf0lx20/edit?usp=sharing)<br>
 🔵[11-09-2023 Security Risk Assesment](https://docs.google.com/document/d/18x9l7LXA68TnoFAmL6Fdawqs-UCG3a5h2rdqrOYxM8Y/edit?usp=sharing)<br>
 🔵[11-10-2023 Incident Report Analysis Using NIST CSF](https://docs.google.com/document/d/1cyxVKDa8XyUvyup0rBOT9Q01Hzm05XXf6zG4xjE7Jz4/edit?usp=sharing)<br>
+🔵[11-17-2023 Manage Authorization using Linux](https://docs.google.com/document/d/171nEosH4jcEFOhphf-fkOoC65I5wyQFB1kO4UawhbUU/edit?usp=sharing)<br>
