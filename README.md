@@ -11,3 +11,4 @@ Thank you for joining me on my journey to understand security 🙌<br>
 🔵[Risk Register](https://docs.google.com/document/d/1Lfdl74JswrqUBV11vszXxe-lsh4FB3gxZyqXSwd6lzg/edit?usp=sharing&resourcekey=0-IeNZOQvr1AESrrzaQ5ZDtQ)<br>
 🔵[Vulnerability Assessment Report](https://docs.google.com/document/d/101G7q3w9fGLtW4xV05c6AEOh03oAAy4Ps7rLiVHz7Fg/edit?usp=sharing)<br>
 🔵[Incident handler's response](https://docs.google.com/document/d/1mplXJ42j5JNndQXowv2XtNGqBybkTGFkI5JhDUQSf44/edit?usp=sharing&resourcekey=0-swfnZkmXNHGYl1VJLxX5CQ_)<br> 
+🔵[Automation with Python](https://docs.google.com/document/d/1u_x8cQtf4UvVUKyLj_gokxf1OM1XwiB7F8nRFTr58LU/edit?usp=sharing&resourcekey=0-6jE4Zd_v96fRSM7ZrILTtw)<br>
